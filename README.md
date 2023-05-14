@@ -2,9 +2,11 @@
 - 🔭 I’m currently working in T.I. Brazil Gestão & Softwares.
 
 <div
-     <img heigth="180cm" src="(https://github-readme-stats.vercel.app/api?username=Andre Durco&show_icons=true&theme=radical)" />
-
+   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=Andre Durco&show_icons=true&theme=dark&includ_all_commits=true&count_private=true"/>
+   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?top-langs/?username=Andre Durco&layot=compact&langs_count=16&theme=dracula"/>
 </div>
+
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="AVD-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="AVD-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
