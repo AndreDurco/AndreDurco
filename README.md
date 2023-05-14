@@ -1,6 +1,5 @@
 ### Olá! Eu sou o André Vinicius Durço
 - 🔭 I’m currently working in T.I. Brazil Gestão & Softwares.
-- 
 <div style="display: inline_block"><br>
   <img align="center" alt="AVD-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="AVD-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
