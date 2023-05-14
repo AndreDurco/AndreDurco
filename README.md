@@ -3,7 +3,7 @@
 
 <div>
    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=AndreDurco&show_icons=true&theme=dark&includ_all_commits=true&count_private=true"/>
-   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?top-langs/?username=AndreDurco&layot=compact&langs_count=16&theme=dracula"/>
+   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?top-langs/?username=AndreDurco&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
